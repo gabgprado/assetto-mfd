@@ -1,4 +1,4 @@
-# assetto-mfd
+# Assetto Corsa MFD display
 
 Multi Function Display (MFD) for Assetto Corsa.
 
